@@ -1,5 +1,5 @@
 {
   "name": "r0fls token",
   "description": "r0fls token is a test NFT",
-  "image": "https://somewhere.com/tokens/x.png"
+  "image": "https://raw.githubusercontent.com/r0fls/nft-metadata/main/flower.jpeg"
 }
